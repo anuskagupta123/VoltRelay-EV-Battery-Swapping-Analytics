@@ -32,7 +32,6 @@ Using Python and data analytics techniques, the project transforms large dataset
 VoltRelay-EV-Battery-Swapping-Analytics/
 │
 ├── VoltRelay_Hackathon_Final.ipynb
-├── VoltRelay_Data_Analytics_Report.pdf
 ├── README.md
 └── requirements.txt
 ```
